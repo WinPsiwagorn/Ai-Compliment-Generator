@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Quirky Compliments",
+    "slug": "quirky-compliments",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFF5F7"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFF5F7"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "newArchEnabled": true
+  }
+}
